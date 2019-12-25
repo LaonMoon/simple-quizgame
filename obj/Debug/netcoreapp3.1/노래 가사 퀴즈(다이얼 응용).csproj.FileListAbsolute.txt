@@ -1,0 +1,11 @@
+C:\Users\laonm\Desktop\프로그래밍\MyFirstProgram\노래 가사 퀴즈(다이얼 응용)\노래 가사 퀴즈(다이얼 응용)\노래 가사 퀴즈(다이얼 응용)\bin\Debug\netcoreapp3.1\노래 가사 퀴즈(다이얼 응용).exe
+C:\Users\laonm\Desktop\프로그래밍\MyFirstProgram\노래 가사 퀴즈(다이얼 응용)\노래 가사 퀴즈(다이얼 응용)\노래 가사 퀴즈(다이얼 응용)\bin\Debug\netcoreapp3.1\노래 가사 퀴즈(다이얼 응용).deps.json
+C:\Users\laonm\Desktop\프로그래밍\MyFirstProgram\노래 가사 퀴즈(다이얼 응용)\노래 가사 퀴즈(다이얼 응용)\노래 가사 퀴즈(다이얼 응용)\bin\Debug\netcoreapp3.1\노래 가사 퀴즈(다이얼 응용).runtimeconfig.json
+C:\Users\laonm\Desktop\프로그래밍\MyFirstProgram\노래 가사 퀴즈(다이얼 응용)\노래 가사 퀴즈(다이얼 응용)\노래 가사 퀴즈(다이얼 응용)\bin\Debug\netcoreapp3.1\노래 가사 퀴즈(다이얼 응용).runtimeconfig.dev.json
+C:\Users\laonm\Desktop\프로그래밍\MyFirstProgram\노래 가사 퀴즈(다이얼 응용)\노래 가사 퀴즈(다이얼 응용)\노래 가사 퀴즈(다이얼 응용)\bin\Debug\netcoreapp3.1\노래 가사 퀴즈(다이얼 응용).dll
+C:\Users\laonm\Desktop\프로그래밍\MyFirstProgram\노래 가사 퀴즈(다이얼 응용)\노래 가사 퀴즈(다이얼 응용)\노래 가사 퀴즈(다이얼 응용)\bin\Debug\netcoreapp3.1\노래 가사 퀴즈(다이얼 응용).pdb
+C:\Users\laonm\Desktop\프로그래밍\MyFirstProgram\노래 가사 퀴즈(다이얼 응용)\노래 가사 퀴즈(다이얼 응용)\노래 가사 퀴즈(다이얼 응용)\obj\Debug\netcoreapp3.1\노래 가사 퀴즈(다이얼 응용).csprojAssemblyReference.cache
+C:\Users\laonm\Desktop\프로그래밍\MyFirstProgram\노래 가사 퀴즈(다이얼 응용)\노래 가사 퀴즈(다이얼 응용)\노래 가사 퀴즈(다이얼 응용)\obj\Debug\netcoreapp3.1\노래 가사 퀴즈(다이얼 응용).AssemblyInfoInputs.cache
+C:\Users\laonm\Desktop\프로그래밍\MyFirstProgram\노래 가사 퀴즈(다이얼 응용)\노래 가사 퀴즈(다이얼 응용)\노래 가사 퀴즈(다이얼 응용)\obj\Debug\netcoreapp3.1\노래 가사 퀴즈(다이얼 응용).AssemblyInfo.cs
+C:\Users\laonm\Desktop\프로그래밍\MyFirstProgram\노래 가사 퀴즈(다이얼 응용)\노래 가사 퀴즈(다이얼 응용)\노래 가사 퀴즈(다이얼 응용)\obj\Debug\netcoreapp3.1\노래 가사 퀴즈(다이얼 응용).dll
+C:\Users\laonm\Desktop\프로그래밍\MyFirstProgram\노래 가사 퀴즈(다이얼 응용)\노래 가사 퀴즈(다이얼 응용)\노래 가사 퀴즈(다이얼 응용)\obj\Debug\netcoreapp3.1\노래 가사 퀴즈(다이얼 응용).pdb

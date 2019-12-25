@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>노래_가사_퀴즈_다이얼_응용_</RootNamespace>
+  </PropertyGroup>
+
+</Project>
